@@ -133,6 +133,7 @@ w,	きゅん
 w.	きん
 w/	きゃん
 xa	っが
+Xa  月
 xs	っぎ
 xd	っぐ
 xf	っげ
@@ -472,6 +473,7 @@ jz	なん
 jx	にん
 jc	ぬん
 jv	ねん
+Jv  年
 jb	のん
 jn	『
 jm	』
@@ -616,6 +618,7 @@ lh	ぽ
 lj	ぺ
 lk	ぷ
 ll	ぴ
+Ll  日
 l;	ぱ
 lq	まい
 Lq	枚
