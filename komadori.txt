@@ -379,7 +379,6 @@ hr	ゑい
 he	んう
 hw	ゐい
 hq	わい
-h,	っん
 hb	をん
 hv	ゑん
 hc	んん
@@ -834,6 +833,19 @@ p9	（９）
 ;7	Ⅶ
 ;8	Ⅷ
 ;9	Ⅸ
+jp	〜
+j/	—
+hi	；
+ho	：
+hh	“
+hj	”
+hy	〈
+hu	〉
+hn	【
+hm	】
+h.	…
+h/	・
+h,	‥
 DL	様
 FJ	殿
 LJ	者
