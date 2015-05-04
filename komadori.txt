@@ -469,7 +469,7 @@ jq	ない
 Jq	内
 jw	にい
 je	ぬう
-jr	ね
+jr	ねい
 jt	のう
 Jt	能
 jy	『
