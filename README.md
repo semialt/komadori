@@ -104,7 +104,7 @@
 「ヴァ行」は、わ行拗音拡張の同手、「ウィ行」は、わ行拗音拡張の異手、「ツァ行」は、や行拗音拡張の異手（た行拗音拡張の一つ右）で入力できる。
 
 
-> 拗音拡張は、しゃ行とちゃ行について、拗音拡張を備えるQWERTY系拡張ローマ字入力「AZIK」( http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm )の仕様を参考にした。
+> 拗音拡張は、しゃ行とちゃ行について拗音拡張を備えるQWERTY系拡張ローマ字入力「AZIK」( http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm )の仕様を参考にした。
 
 促音拡張
 --------
