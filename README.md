@@ -142,7 +142,7 @@
 例：　ｗｐ　→　きゃい    
 　　　ｘｐ　→　っかい
 　　　
-> 二重母音拡張は、母音用のキーの近くに二重母音拡張を配置しているAZIKの仕様を参考にした。
+> 二重母音拡張は、母音用のキーの近くに二重母音拡張を配置しているAZIKの仕様を参考にした。SKY配列も母音用のキーの上に二重母音拡張を配置している。
 
 發音拡張
 --------
@@ -160,28 +160,37 @@
 
 二重母音拡張とは組み合わせることができない。
 
-> 發音拡張は、母音用のキーの一つ下に發音拡張を備えるAZIKの仕様を採用した。
+> 發音拡張は、母音用のキーの一つ下に發音拡張を備えるAZIKの仕様を採用した。SKY配列も同様の仕様を備えている。
 
+単打拡張
+--------
+下段のキーのうち、撥音拡張で使わないもの（ｚｂｎｍ／）を使って、句読点、長音、撥音、促音を１打で入力することができる。句読点、長音は二打でも打ちやすく、撥音と促音は専用拡張があるので、そこまで頻繁には使う必要がない。
+
+例：　ｚ　→　ん  
+　　　ｂ　→　、  
+　　　ｎ　→　っ  
+　　　ｍ　→　。  
+　　　／　→　ー  
 
 その他の入力
 --------
 ### その他の記号類の入力
 
-な行え段、お段同手（「」）の上下に引用に使用する括弧類を配置している。
+な行え段、お段同手（「」）の上下に引用に使用する括弧２種を配置している。
 
 例：　ｊｙ　→　『  
 　　　ｊｕ　→　』  
 　　　ｊｎ　→　“  
 　　　ｊｍ　→　”
 
-わ行え段、お段同手「（）」の上下にその他の括弧類を配置している。
+わ行え段、お段同手「（）」の上下にその他の括弧２種を配置している。
 例：　ｈｙ　→　【  
 　　　ｈｕ　→　】  
 　　　ｈｎ　→　〈  
 　　　ｈｍ　→　〉
 
 
-な行い段、う段同手（、。）の上下に句読点を配置している。
+な行い段、う段同手（、。）の上下に各種の句読点を配置している。
 
 例：　ｊｉ　→　！  
 　　　ｊｏ　→　？  
@@ -244,4 +253,4 @@ parenthesisの「ｐ」を打った後に数字キーを打つことで、全角
 　　　
 ###漢字等定義一覧
 
-A; 亜, Ay 王, Au 英, Ap 愛, An 御, Am 円, A, 運, A. 印, A/ 案, Sa 我, Ss 偽, Sd 具, sf 下, Sg 後, Sh 個, Sj ヶ, Sk 区, Sl 期, S; 可, Sq 外, Se 宮, Sr 芸, St 号, Sy 甲, Su 計, Si 空, Sp 階, Sx 銀, Sc 郡, Sv 現, Sn 婚, Sm 件, S, 君, S. 金, S/ 感, Wg 魚, Wh 許, We 牛, Wt 行, Wu 強, Wi 級, Da 座, Ds 時, Dd 図, Df 是, Dk 酢, Dl 氏, D; 差, Dq 罪, Dr 税, Dt 増, Dt 総, Du 生, Di 数, Dp 才, Dz 残, Dx 人, Dv 前, Db 損, Dn 村, Dm 千, D. 新, D/ 産, Ed 樹, Eg 所, Eh 書, Ek 酒, E; 社, Ee 十, Et 上, Ey 証, Ei 州, Ec 準, E, 旬, Fa 打, Ff 出, Fg 度, Fh 都, Fh 手, F; 他, Fq 第, Ft 同, Fy 等, Fu 低, Fi 通, Fp 対, Fz 段, Fv 伝, Fb 丼, Fn 豚, Fm 点, F/ 単, R; 茶, Ry 町, Ri 中, Hz 湾, G; 屋, Gk 湯, Gi 有, Gy 要, Jf 根, Jg 野, Jq 内, Jt 能, Jz 何, Jv 年, Ka 派, Ks 日, Kd 付, Kg 補, Kk 部, K; 場, Kq 廃, Ke 風, Kr 兵, Kt 法, Ky 某, Ku 米, Kp 倍, Kz 半, Kx 品, Kc 分, Kv 編, Kb 本, Kn 凡, Km 弁, K, 文, K. 便, K/ 番, It 表, Iy 秒, La 間, Ls 未, Ld 無, Lf 目, Lh 歩, Ll 否, Lq 枚, Lr 名, Lt 毛, Ly 方, Lp 杯, Lz 万, Lx 民, Lv 免, Lb 門, L/ 版, +a 裸, +s 里, +g 路, +q 来, +r 例, +z 欄, +v 連, +b 論, Pe 流, Pt 両, DL 様, FJ 殿, LJ 者, LD 頁, GF 私, KF 物, SS 各, AS 億, AF 宛, HK 〒, S+ 頃, Qf 乙, KD 平成, EG 昭和, SE 会社, DL 様, FJ 殿, LJ 者, LD 頁, GF 私, KF 物, SS 各, AS 億, AF 宛, HK 〒, S+ 頃, Qf 乙, KD 平成, EG 昭和, SE 会社, SJ 月, DU 先生, JG については, +D お世話になっております。
+A; 亜, Ay 王, Au 英, Ap 愛, An 御, Am 円, A, 運, A. 印, A/ 案, Sa 我, Ss 偽, Sd 具, sf 下, Sg 後, Sh 個, Sj ヶ, Sk 区, Sl 期, S; 可, Sq 外, Se 宮, Sr 芸, St 号, Sy 甲, Su 計, Si 空, Sp 階, Sx 銀, Sc 郡, Sv 現, Sn 婚, Sm 件, S, 君, S. 金, S/ 感, Wg 魚, Wh 許, We 牛, Wt 行, Wu 強, Wi 級, Da 座, Ds 時, Dd 図, Df 是, Dk 酢, Dl 氏, D; 差, Dq 罪, Dr 税, Dt 増, Dt 総, Du 生, Di 数, Dp 才, Dz 残, Dx 人, Dv 前, Db 損, Dn 村, Dm 千, D. 新, D/ 産, Ed 樹, Eg 所, Eh 書, Ek 酒, E; 社, Ee 十, Et 上, Ey 証, Ei 州, Ec 準, E, 旬, Fa 打, Ff 出, Fg 度, Fh 都, Fh 手, F; 他, Fq 第, Ft 同, Fy 等, Fu 低, Fi 通, Fp 対, Fz 段, Fv 伝, Fb 丼, Fn 豚, Fm 点, F/ 単, R; 茶, Ry 町, Ri 中, Hz 湾, G; 屋, Gk 湯, Gi 有, Gy 要, Jf 根, Jg 野, Jq 内, Jt 能, Jz 何, Jv 年, Ka 派, Ks 日, Kd 付, Kg 補, Kk 部, K; 場, Kq 廃, Ke 風, Kr 兵, Kt 法, Ky 某, Ku 米, Kp 倍, Kz 半, Kx 品, Kc 分, Kv 編, Kb 本, Kn 凡, Km 弁, K, 文, K. 便, K/ 番, It 表, Iy 秒, La 間, Ls 未, Ld 無, Lf 目, Lh 歩, Ll 否, Lq 枚, Lr 名, Lt 毛, Ly 方, Lp 杯, Lz 万, Lx 民, Lv 免, Lb 門, L/ 版, +a 裸, +s 里, +g 路, +q 来, +r 例, +z 欄, +v 連, +b 論, Pe 流, Pt 両, DL 様, FJ 殿, LJ 者, LD 頁, GF 私, KF 物, SS 各, AS 億, AF 宛, HK 〒, S+ 頃, Qf 乙, KD 平成, EG 昭和, SE 会社, DL 様, FJ 殿, LJ 者, LD 頁, GF 私, KF 物, SS 各, AS 億, AF 宛, HK 〒, S+ 頃, Qf 乙, KD 平成, EG 昭和, SE 会社, SF 月, DU 先生, JG については, +D お世話になっております。
