@@ -1,42 +1,63 @@
+#あ行清音（異手）
+a;	あ
+al	い
+ak	う
+aj	え
+ah	お
+#あ行異手漢字拡張
+A;	亜
+#あ行異手二重母音拡張
+ap	あい
+ao	いい
+ai	うう
+au	えい
+ay	おう
+#あ行異手二重母音漢字拡張
+Ap	愛
+Au	英
+Ay	王
+#あ行清音撥音拡張
+a/	あん
+A/	案
+a.	いん
+A.	印
+a,	うん
+A,	運
+am	えん
+Am	円
+an	おん
+An	御
+#あ行捨て仮名（同手）
 aa	ぁ
 as	ぃ
 ad	ぅ
 af	ぇ
 ag	ぉ
-ah	お
-aj	え
-ak	う
-al	い
-a;	あ
-A;	亜
+#あ行捨て仮名二重母音拡張（同手）
 aq	ぁい
 aw	ぃい
 ae	ぅう
 ar	ぇい
 at	ぉう
-ay	おう
-Ay	王
-au	えい
-Au	英
-ai	うう
-ao	いい
-ap	あい
-Ap	愛
+#あ行捨て仮名撥音拡張（同手）
 az	ぁん
 ax	ぃん
 ac	ぅん
 av	ぇん
 ab	ぉん
-an	おん
-An	御
-am	えん
-Am	円
-a,	うん
-A,	運
-a.	いん
-A.	印
-a/	あん
-A/	案
+
+#か行
+s;	か
+S;	可
+sl	き
+Sl	期
+sk	く
+Sk	区
+sj	け
+Sj	ヶ
+sh	こ
+Sh	個
+#が行
 sa	が
 Sa	我
 ss	ぎ
@@ -47,16 +68,7 @@ sf	げ
 Sf	下
 sg	ご
 Sg	後
-sh	こ
-Sh	個
-sj	け
-Sj	ヶ
-sk	く
-Sk	区
-sl	き
-Sl	期
-s;	か
-S;	可
+
 sq	がい
 Sq	外
 sw	ぎい
