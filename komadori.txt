@@ -345,140 +345,185 @@ cc	っずん
 cv	っぜん
 cb	っぞん
 
+#た行
+f;	た
+fl	ち
+fk	つ
+fj	て
+fh	と
+#同漢字拡張
+F;	他
+Fh	手
+Fh	都
+#た行二重母音拡張
+fp	たい
+fo	ちい
+fi	つう
+fu	てい
+fy	とう
+#同漢字拡張
+Fp	対
+Fi	通
+Fu	低
+Fy	等
+#た行撥音拡張
+f/	たん
+f.	ちん
+f,	つん
+fm	てん
+fn	とん
+#同漢字拡張
+F/	単
+Fm	点
+Fn	豚
+
+# だ行
 fa	だ
-Fa	打
 fs	ぢ
 fd	づ
 ff	で
-Ff	出
 fg	ど
+#同漢字拡張
+Fa	打
+Ff	出
 Fg	度
-fh	と
-Fh	都
-fj	て
-Fh	手
-fk	つ
-fl	ち
-f;	た
-F;	他
+#だ行二重母音拡張
 fq	だい
-Fq	第
 fw	ぢい
 fe	づう
 fr	でい
 ft	どう
+#同漢字拡張
+Fq	第
 Ft	同
-fy	とう
-Fy	等
-fu	てい
-Fu	低
-fi	つう
-Fi	通
-fo	ちい
-fp	たい
-Fp	対
+#だ行撥音拡張
 fz	だん
-Fz	段
 fx	ぢん
 fc	づん
 fv	でん
-Fv	伝
 fb	どん
+#同漢字拡張
+Fz	段
+Fv	伝
 Fb	丼
-fn	とん
-Fn	豚
-fm	てん
-Fm	点
-f,	つん
-f.	ちん
-f/	たん
-F/	単
+
+#ちゃ行
+r;	ちゃ
+rl	てぃ
+rk	ちゅ
+rj	ちぇ
+rh	ちょ
+#とぅ
+Rk	とぅ
+#同漢字拡張
+R;	茶
+#ちゃ行二重母音拡張
+rp	ちゃい
+ro	てぃい
+ri	ちゅう
+ru	ちぇい
+ry	ちょう
+#同漢字拡張
+Ri	中
+Ry	町
+#ちゃ行撥音拡張
+r/	ちゃん
+r.	てぃん
+r,	ちゅん
+rm	ちぇん
+rn	ちょん
+# とぅん
+R,	とぅん
+
+#ぢゃ行
 ra	ぢゃ
 rs	でぃ
 rd	でゅ
-Rd	どぅ
 rf	ぢぇ
 rg	ぢょ
-rh	ちょ
-rj	ちぇ
-rk	ちゅ
-Rk	とぅ
-rl	てぃ
-r;	ちゃ
-R;	茶
+#どぅ
+Rd	どぅ
+#ぢゃ行二重母音拡張
 rq	ぢゃい
 rw	でぃい
 re	でゅう
-Re	どぅう
 rr	ぢぇい
 rt	ぢょう
-ry	ちょう
-Ry	町
-ru	ちぇい
-ri	ちゅう
-Ri	中
-ro	てぃい
-rp	ちゃい
+#どぅう
+Re	どぅう
+#ぢゃ行撥音拡張
 rz	ぢゃん
 rx	でぃん
 rc	でゅん
-Rc	どぅん
 rv	ぢぇん
 rb	ぢょん
-rn	ちょん
-rm	ちぇん
-r,	ちゅん
-R,	とぅん
-r.	てぃん
-r/	ちゃん
+#どぅん
+Rc	どぅん
+
+
+#た行促音拡張
+v;	った
+vl	っち
+vk	っつ
+vj	って
+vh	っと
+#た行促音二重母音拡張
+vp	ったい
+vo	っちい
+vi	っつう
+vu	ってい
+vy	っとう
+#た行促音撥音拡張
+v/	ったん
+v.	っちん
+v,	っつん
+vm	ってん
+vn	っとん
+
+#だ行促音拡張
 va	っだ
 vs	っぢ
 vd	っづ
 vf	っで
 vg	っど
-vh	っと
-vj	って
-vk	っつ
-vl	っち
-v;	った
+#だ行促音二重母音拡張
 vq	っだい
 vw	っぢい
 ve	っづう
 vr	っでい
 vt	っどう
-vy	っとう
-vu	ってい
-vi	っつう
-vo	っちい
-vp	ったい
+#だ行促音撥音拡張
 vz	っだん
 vx	っぢん
 vc	っづん
 vv	っでん
 vb	っどん
-vn	っとん
-vm	ってん
-v,	っつん
-v.	っちん
-v/	ったん
+
+#わ行清音と撥音
+ha	わ
+hs	ゐ
+hd	ん
+hf	ゑ
+hg	を
+#わ行捨て仮名と促音
 hk	っ
 h;	ゎ
-hg	を
-hf	ゑ
-hd	ん
-hs	ゐ
-ha	わ
-ht	をう
-hr	ゑい
-he	んう
-hw	ゐい
+
+#わ行二重母音拡張
 hq	わい
+hw	ゐい
+# 「んう」は多分不要
+he	んう
+hr	ゑい
+ht	をう
+
 hb	をん
 hv	ゑん
 hc	んん
 hx	ゐん
 hz	わん
 Hz	湾
+
 y;	う゛ぁ
 yl	う゛ぃ
 yk	う゛
