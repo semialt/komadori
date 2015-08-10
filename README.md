@@ -304,10 +304,10 @@ parenthesisの「ｐ」を打った後に数字キーを打つことで、全角
 　　　
 ###漢字等定義一覧
 
-A; 亜, Ay 王, Au 英, Ap 愛, An 御, Am 円, A, 運, A. 印, A/ 案, Sa 我, Ss 偽, Sd 具, sf 下, Sg 後, Sh 個, Sj ヶ, Sk 区, Sl 期, S; 可, Sq 外, Se 宮, Sr 芸, St 号, Sy 甲, Su 計, Si 空, Sp 階, Sx 銀, Sc 郡, Sv 現, Sn 婚, Sm 件, S, 君, S. 金, S/ 感, Wg 魚, Wh 許, We 牛, Wt 行, Wu 強, Wi 級, Da 座, Ds 時, Dd 図, Df 是, Dk 酢, Dl 氏, D; 差, Dq 罪, Dr 税, Dt 増, Dt 総, Du 生, Di 数, Dp 才, Dz 残, Dx 人, Dv 前, Db 損, Dn 村, Dm 千, D. 新, D/ 産, Ed 樹, Eg 所, Eh 書, Ek 酒, E; 社, Ee 十, Et 上, Ey 証, Ei 州, Ec 準, E, 旬, Fa 打, Ff 出, Fg 度, Fh 都, Fh 手, F; 他, Fq 第, Ft 同, Fy 等, Fu 低, Fi 通, Fp 対, Fz 段, Fv 伝, Fb 丼, Fn 豚, Fm 点, F/ 単, R; 茶, Ry 町, Ri 中, Hz 湾, G; 屋, Gk 湯, Gi 有, Gy 要, Jf 根, Jg 野, Jq 内, Jt 能, Jz 何, Jv 年, Ka 派, Ks 日, Kd 付, Kg 補, Kk 部, K; 場, Kq 廃, Ke 風, Kr 兵, Kt 法, Ky 某, Ku 米, Kp 倍, Kz 半, Kx 品, Kc 分, Kv 編, Kb 本, Kn 凡, Km 弁, K, 文, K. 便, K/ 番, It 表, Iy 秒, La 間, Ls 未, Ld 無, Lf 目, Lh 歩, Ll 否, Lq 枚, Lr 名, Lt 毛, Ly 方, Lp 杯, Lz 万, Lx 民, Lv 免, Lb 門, L/ 版, +a 裸, +s 里, +g 路, +q 来, +r 例, +z 欄, +v 連, +b 論, Pe 流, Pt 両, DL 様, FJ 殿, LJ 者, LD 頁, GF 私, KF 物, SS 各, AS 億, AF 宛, HK 〒, S+ 頃, Qf 乙, KD 平成, EG 昭和, SE 会社, DL 様, FJ 殿, LJ 者, LD 頁, GF 私, KF 物, SS 各, AS 億, AF 宛, HK 〒, S+ 頃, Qf 乙, KD 平成, EG 昭和, SE 会社, SF 月, DU 先生, JG については, +D お世話になっております。
+A; 亜, Ay 王, Au 英, Ap 愛, An 御, Am 円, A, 運, A. 印, A/ 案, Sa 我, Ss 偽, Sd 具, sf 下, Sg 後, Sh 個, Sj ヶ, Sk 区, Sl 期, S; 可, Sq 外, Se 宮, Sr 芸, St 号, Sy 甲, Su 計, Si 空, Sp 階, Sx 銀, Sc 郡, Sv 現, Sn 婚, Sm 件, S, 君, S. 金, S/ 感, Wg 魚, Wh 許, We 牛, Wt 行, Wu 強, Wi 級, Da 座, Ds 時, Dd 図, Df 是, Dk 酢, Dl 氏, D; 差, Dq 罪, Dr 税, Dt 増, Dt 総, Du 生, Di 数, Dp 才, Dz 残, Dx 人, Dv 前, Db 損, Dn 村, Dm 千, D. 新, D/ 産, Ed 樹, Eg 所, Eh 書, Ek 酒, E; 社, Ee 十, Et 上, Ey 証, Ei 州, Ec 準, E, 旬, Fa 打, Ff 出, Fg 度, Fh 都, Fh 手, F; 他, Fq 第, Ft 同, Fy 等, Fu 低, Fi 通, Fp 対, Fz 段, Fv 伝, Fb 丼, Fn 豚, Fm 点, F/ 単, R; 茶, Ry 町, Ri 中, Hz 湾, G; 屋, Gk 湯, Gi 有, Gy 用, Jf 根, Jg 野, Jq 内, Jt 能, Jz 何, Jv 年, Ka 派, Ks 日, Kd 付, Kg 補, Kk 部, K; 場, Kq 廃, Ke 風, Kr 丙, Kt 法, Ky 某, Ku 米, Kp 倍, Kz 半, Kx 品, Kc 分, Kv 編, Kb 本, Kn 凡, Km 弁, K, 文, K. 便, K/ 番, It 表, Iy 秒, La 間, Ls 未, Ld 無, Lf 目, Lh 歩, Ll 否, Lq 枚, Lr 名, Lt 毛, Ly 方, Lp 杯, Lz 万, Lx 民, Lv 免, Lb 門, L/ 版, +a 裸, +s 里, +g 路, +q 来, +r 例, +z 欄, +v 連, +b 論, Pe 流, Pt 両, DL 様, FJ 殿, LJ 者, LD 頁, GF 私, KF 物, SS 各, AS 億, AF 宛, HK 〒, S+ 頃, Qf 乙, KD 平成, EG 昭和, SE 会社, SF 月, DU 先生, JG については, +D お世話になっております。
 
 > 漢字や短文の配置は実験的なものであり、テストはほとんど行っていない。将来的に配置が変更されたることもありうる。逆に言えば各利用者はそれぞれ自分が使いやすい位置に頻繁に使う漢字を配置してよい。
 
-2015-06-27
-文責 semialt
+2015-06-27 文責 semialt
+
 ご意見はGit HubのIssuesかtwitter(@semi_alt)でどうぞ。
