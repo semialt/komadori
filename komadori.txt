@@ -752,6 +752,22 @@ ux	にぃん
 uc	にゅん
 uv	にぇん
 ub	にょん
+#U同手記号
+uh	［
+uj	］
+
+uy	〈
+uu	〉
+ui	⁉
+uo	⁈
+up	—
+
+un	《
+um	》
+u/	——
+
+
+
 
 # K
 #は行
