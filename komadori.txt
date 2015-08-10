@@ -753,17 +753,17 @@ uc	にゅん
 uv	にぇん
 ub	にょん
 #U同手記号
-uh	［
-uj	］
+uh	〈
+uj	〉
 
-uy	〈
-uu	〉
+uy	《
+uu	》
 ui	⁉
 uo	⁈
 up	—
 
-un	《
-um	》
+un	〔
+um	〕
 u/	——
 
 
