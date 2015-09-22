@@ -107,7 +107,7 @@
 「ヴァ行」と「ヴ」は、わ行拗音拡張の同手、「ウィ行」は、わ行拗音拡張の異手、「ツァ行」と「トゥ」は、や行拗音拡張の異手（た行拗音拡張の一つ右）、「ヅァ」行と「ドゥ」はや行拗音拡張の異手で入力できる。
 外来音の「イェ」は拗音拡張ではなく、「や行え段」に配置している。
 
-> 拗音拡張は、しゃ行とちゃ行について拗音拡張を備えるQWERTY系拡張ローマ字入力「AZIK」( http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm )の仕様を参考にした。
+> 拗音拡張は、しゃ行とちゃ行について拗音拡張を備えるQWERTY系拡張ローマ字入力「AZIK」( http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm )の仕様を参考にしています。
 
 > 「ぢゅ」は現代仮名遣いでの入力には必須ではないため、定義していません。必要な場合は、「デュ」の位置に定義するのが良いでしょう。
 
@@ -122,7 +122,7 @@
 
 拗音拡張とは組み合わせることができない。
 
-> 促音拡張は、か行、が行、さ行、ざ行、た行、だ行、は行、ば行、ぱ行でのみ定義している。
+> 促音拡張は、か行、が行、さ行、ざ行、た行、だ行、は行、ば行、ぱ行でのみ定義しています。
 
 二重母音拡張
 --------
@@ -289,7 +289,7 @@ parenthesisの「ｐ」を打った後に数字キーを打つことで、全角
 １音では表現できない漢字を、一打目と二打目を両方シフトし、複数の音の行をそれぞれとったキーを打つことで入力できる。
 
 例：　ＤＬ（さま）　→　様  
-　　　ＬＤ（ぺーじ）→　頁
+　　　ＡＦ（あて）　→　宛
 
 > 漢字の直接入力拡張を利用するとシフトキーを多用することになります。シフトキーは押しやすいキーではありませんし、ホームポジションも崩れてしまいますので、スペースバーにシフトキーを兼用させる（ http://semialt.hatenablog.com/entry/2014/04/26/022124 ）と良いでしょう。
 
@@ -300,14 +300,14 @@ parenthesisの「ｐ」を打った後に数字キーを打つことで、全角
 例：　ＫＤ　→　平成  
 　　　ＥＧ　→　昭和    
 　　　ＳＥ　→　会社    
-　　　ＬＫ　→　ます    
+　　　ＬＤ　→　ます    
 　　　＋Ｄ　→　お世話になっております。
 　　　
 ###漢字等定義一覧
 
-A; 亜, Ay 王, Au 英, Ap 愛, An 御, Am 円, A, 運, A. 印, A/ 案, Sa 我, Ss 偽, Sd 具, sf 下, Sg 後, Sh 個, Sj ヶ, Sk 区, Sl 貴, S; 可, Sq 外, Se 宮, Sr 芸, St 号, Sy 項, Su 計, Si 空, Sp 階, Sx 銀, Sc 郡, Sv 現, Sn 婚, Sm 件, S, 君, S. 金, S/ 感, Wg 魚, Wh 許, We 牛, Wt 行, Wu 強, Wi 級, Da 座, Ds 時, Dd 図, Df 是, Dk 酢, Dl 氏, D; 差, Dq 罪, Dr 税, Dt 増, Dt 総, Du 生, Di 数, Dp 才, Dz 残, Dx 人, Dv 前, Db 損, Dn 村, Dm 千, D. 新, D/ 産, Ed 樹, Eg 所, Eh 書, Ek 酒, E; 社, Ee 十, Et 条, Ey 証, Ei 州, Ec 準, E, 旬, Fa 打, Ff 出, Fg 度, Fh 都, Fh 手, F; 他, Fq 第, Ft 同, Fy 等, Fu 低, Fi 通, Fp 対, Fz 段, Fv 殿, Fb 丼, Fn 豚, Fm 点, F/ 単, R; 茶, Ry 町, Ri 中, Hz 湾, G; 屋, Gk 湯, Gi 有, Gy 用, Jf 根, Jg 野, Jq 内, Jt 能, Jz 何, Jx 人, Jv 年, Ka 派, Ks 非, Kd 付, Kg 補, Kk 部, K; 場, Kq 廃, Ke 風, Kt 法, Ky 某, Ku 米, Kp 倍, Kz 半, Kx 品, Kc 分, Kv 編, Kb 本, Kn 凡, Km 弁, K, 文, K. 便, K/ 番, It 表, Iy 秒, La 間, Ls 未, Ld 無, Lf 目, Lh 歩, Ll 否, Lq 枚, Lr 名, Lt 毛, Ly 方, Lp 杯, Lz 万, Lx 民, Lv 面, Lb 門, L/ 版, +a 裸, +s 里, +g 路, +q 来, +r 例, +z 欄, +v 連, +b 論, DL 様, FJ 殿, LJ 者, LD 頁, HF 私, KF 物, AS 億, AF 宛, GK 〒, S+ 頃, Qf 乙, SF 月, JF 日, SY 甲, GJ 乙, KR 丙, WK 局, G+ €, KD 平成, EH 昭和, SE 会社, DU 先生, DT 製造, KP 販売, SG 契約, SK 株式, DK 製品, EK 商品, KS 本件, F+ ドル, SD 漢字, SV 午前, SS 午後, FF 通知, LK ます, SH こと, D+ する, +D お世話になっております。
+A; 亜, Ay 王, Au 英, Ap 愛, An 御, Am 円, A, 運, A. 印, A/ 案, Sa 我, Ss 偽, Sd 具, sf 下, Sg 後, Sh 個, Sj ヶ, Sk 区, Sl 貴, S; 可, Sq 外, Se 宮, Sr 芸, St 号, Sy 項, Su 計, Si 空, Sp 階, Sx 銀, Sc 郡, Sv 現, Sn 婚, Sm 件, S, 君, S. 金, S/ 感, Wg 魚, Wh 許, We 牛, Wt 行, Wu 強, Wi 級, Da 座, Ds 時, Dd 図, Df 是, Dk 酢, Dl 氏, D; 差, Dq 罪, Dr 税, Dt 増, Dt 総, Du 生, Di 数, Dp 才, Dz 残, Dx 人, Dv 前, Db 損, Dn 村, Dm 千, D. 新, D/ 産, Ed 樹, Eg 所, Eh 書, Ek 酒, E; 社, Ee 十, Et 条, Ey 証, Ei 州, Ec 準, E, 旬, Fa 打, Ff 出, Fg 度, Fh 都, Fj 手, F; 他, Fq 第, Ft 同, Fy 等, Fu 低, Fi 通, Fp 対, Fz 段, Fv 殿, Fb 丼, Fn 豚, Fm 点, F/ 単, R; 茶, Ry 町, Ri 中, Hz 湾, G; 屋, Gk 湯, Gi 有, Gy 用, Jf 根, Jg 野, Jq 内, Jt 能, Jz 何, Jx 人, Jv 年, Ka 派, Ks 非, Kd 付, Kg 補, Kk 部, K; 場, Kq 廃, Ke 風, Kt 法, Ky 某, Ku 米, Kp 倍, Kz 半, Kx 品, Kc 分, Kv 編, Kb 本, Kn 凡, Km 弁, K, 文, K. 便, K/ 番, It 表, Iy 秒, La 間, Ls 未, Ld 無, Lf 目, Lh 歩, Ll 否, Lq 枚, Lr 名, Lt 毛, Ly 方, Lp 杯, Lz 万, Lx 民, Lv 面, Lb 門, L/ 版, +a 裸, +s 里, +g 路, +q 来, +r 例, +z 欄, +v 連, +b 論, DL 様, FJ 殿, LJ 者, GY 頁, HF 私, KF 物, AS 億, AF 宛, GK 〒, S+ 頃, Qf 乙, SF 月, JF 日, SY 甲, GJ 乙, KR 丙, WS 局, G+ €, KD 平成, EH 昭和, SE 会社, DU 先生, DT 製造, KP 販売, SG 契約, SK 株式, DK 製品, EK 商品, KS 本件, F+ ドル, SD 漢字, SV 午前, SS 午後, FF 通知, DF 相当, EL 署名, JS 納期, FH 電話, SL 件名, AD 宛先, SV 貴殿, D+ 西暦, D+ 西暦, EJ	承認, SD 口座, LD ます, SH こと, FD です, HD お世話になっております。
 
-> 漢字や単語、文字列、短文の配置は実験的なものであり、将来的に変更される可能性も高いです。ユーザーはこの定義にこだわる必要はありませんので、自分が使いやすい位置に頻繁に使う漢字を配置すると良いでしょう。
+> 漢字や単語、文字列、短文の配置は実験的なものであり、v1.0系列においても変更されることがあります。ユーザーはこの定義にこだわる必要はありませんので、自分が使いやすい位置に頻繁に使う漢字を配置すると良いでしょう。
 
 文責 semialt
 
